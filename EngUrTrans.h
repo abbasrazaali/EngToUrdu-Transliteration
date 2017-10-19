@@ -1,20 +1,18 @@
 //////////////////////////////////////////////////////////
-//														//
-//	Title: English-Urdu Tranliteration System			//
-//	Description: English to Urdu Transliterateration	//
-//				 using CMU Pronunciation Dictionary		//
-//													    //
-//	File Name: EnUrTrans.h								//
-//														//
-//	Developed By: Abbas Raza Ali						//
-//	Supervised By: Madhia Ijaz							//
-//	Advisor: Dr. Sarmad Hussain							//
-//														//
-//	Email: abbas4s@yahoo.com							//
-//														//
-//	Start Date:	March 10, 2008							//
-//	End Date: August 31, 2008							//
-//														//
+//							
+//	Title: English-Urdu Tranliteration System			
+//	Description: English to Urdu Transliterateration	
+//		using CMU Pronunciation Dictionary		
+//													    
+//	File Name: EnUrTrans.h								
+//														
+//	Developed By: Abbas Raza Ali								
+//														
+//	Email: abbas4s@yahoo.com							
+//														
+//	Start Date: March 10, 2008							
+//	End Date: August 31, 2008							
+//														
 //////////////////////////////////////////////////////////
 
 #ifndef ENGURTRANS_H
