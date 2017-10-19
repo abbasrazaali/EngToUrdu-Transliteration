@@ -7,10 +7,7 @@
 //	File Name: EnUrTrans.c								//
 //														//
 //	Developed By: Abbas Raza Ali						//
-//	Supervised By: Madhia Ijaz							//
-//	Advisor: Dr. Sarmad Hussain							//
 //														//
-//	Email: abbas4s@yahoo.com							//
 //														//
 //	Start Date:	March 10, 2008							//
 //	End Date: August 31, 2008							//
